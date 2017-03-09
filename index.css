@@ -1,10 +1,10 @@
   button {
       border: 0;
-      height: 50px;
+      height: 80px;
       width: 1300px;
       border-radius: 4px;
-      background: #0087cc;
-      box-shadow: 0 10px 0 #006599;
+      background: #54ff00;
+      box-shadow: 0 10px 2px #3baf01;
       color: #fff;
       cursor: pointer;
       font: inherit;
@@ -13,7 +13,8 @@
       padding: 12px 20px;
       transition: all .1s linear;
       display: flex;
-      margin-right: 5px;
+      margin: 4px;
+      margin-top: 5px;
   }
 
   button:active {
@@ -41,15 +42,14 @@
       box-sizing: border-box;
       border-color: blue;
       border-style: groove;
-      height: 100px;
+      height: 200px;
       width: 100%;
       background: black;
       font-weight: bold;
       color: white;
-      font-size: 350%;
+      font-size: 550%;
       text-align: center;
-      margin-top: 5px;
-      padding-top: 15px;
+      padding-top: 30px;
   }
 
   .description {
@@ -70,15 +70,15 @@
   }
 
   .box {
-      box-sizing: border-box;
       width: auto;
-      border-style: groove;
       display: flex;
+      border-style: groove;
   }
 
   .box1 {
-      height: 70px;
+      height: 100px;
       width: auto;
+      background: black;
   }
 
   .box2 {
