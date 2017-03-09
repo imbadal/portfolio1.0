@@ -13,7 +13,7 @@
       padding: 12px 20px;
       transition: all .1s linear;
       display: flex;
-      margin-right: 6px;
+      margin-right: 5px;
   }
 
   button:active {
