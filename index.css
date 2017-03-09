@@ -13,7 +13,7 @@
       padding: 12px 20px;
       transition: all .1s linear;
       display: flex;
-      margin-right: 7px;
+      margin-right: 6px;
   }
 
   button:active {
@@ -55,7 +55,6 @@
   .description {
       box-sizing: border-box;
       border-style: groove;
-      border-color: blue;
       height: 300px;
       width: 75%;
       margin-top: 10px;
@@ -67,6 +66,7 @@
       margin-top: 10px;
       border-radius: 200px;
       margin-left: 20px;
+      border-style: groove;
   }
 
   .box {
@@ -117,8 +117,7 @@
   }
 
   * {
-      box-sizing: border-box;
-      border-style: groove;
+
   }
 
   .row {
